@@ -7,7 +7,8 @@
  
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Yard Manager Web Application (React + Vite)</b>
-  - [YardManagerApp](https://github.com/Yellowjersey/InvoiceForm)
+  - [YardManagerApp](https://github.com/Yellowjersey/InvoiceForm) <br>
+  <br>
 - <b>Full Stack Hotel Login Web Application</b>
   - [Wild Oasis](https://github.com/Yellowjersey/WildOasis)</i>
 
