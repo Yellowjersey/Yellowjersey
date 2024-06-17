@@ -1,9 +1,11 @@
 <h1>Hi, I'm Gavin! <br/><a href="https://github.com/yellowjersey">Programmer</a>, <a href="https://www.linkedin.com/in/gavin-bradford-ab2566123/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🔐 CyberSecurity Projects:</h2>
 
 - <b>Azure Cloud SOC (HoneyNet)</b>
   - [Azure Cloud SOC](https://github.com/Yellowjersey/Azure-SOC/blob/main/)
+ 
+<h2>👨‍💻lock Software Development Projects:</h2>
 - <b>Yard Manager Web Application (React + Vite)</b>
   - [YardManagerApp](https://github.com/Yellowjersey/InvoiceForm)
 - <b>Full Stack Hotel Login Web Application</b>
