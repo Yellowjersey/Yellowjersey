@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Gavin! <br/><a href="https://github.com/yellowjersey">Programmer</a>, <a href="https://www.linkedin.com/in/gavin-bradford-ab2566123/">Cybersecurity Professional</a></h1>
 
-<!--
-**Yellowjersey/Yellowjersey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Yard Manager Web Application (React + Vite)</b>
+  - [YardManagerApp](https://github.com/Yellowjersey/InvoiceForm)
+- <b>Full Stack Hotel Login Web Application</b>
+  - [Wild Oasis](https://github.com/Yellowjersey/WildOasis)</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="GavinBradford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/gavin-bradford-ab2566123/
+
