@@ -1,23 +1,42 @@
-<h1>Hi, I'm Gavin! <br/><a href="https://github.com/yellowjersey">Programmer</a>, <a href="https://www.linkedin.com/in/gavin-bradford-ab2566123/">Cybersecurity Professional</a></h1>
+<h1 align="center">Hi, I'm Gavin 👋</h1>
+<h3 align="center">Frontend Developer | React & Next.js Enthusiast | Cybersecurity-Informed Engineer</h3>
 
-<h2>🔐 CyberSecurity Projects:</h2>
+---
 
-- <b>Azure Cloud SOC (HoneyNet)</b>
-  - [Azure Cloud SOC](https://github.com/Yellowjersey/Azure-SOC/blob/main/)
- 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>Yard Manager Web Application (React + Vite)</b>
-  - [YardManagerApp](https://github.com/Yellowjersey/InvoiceForm) <br>
-  <br>
-- <b>Full Stack Hotel Login Web Application</b>
-  - [Wild Oasis](https://github.com/Yellowjersey/WildOasis)</i>
+### 🧠 About Me
+I'm a self-taught frontend developer with a background in cybersecurity and cloud infrastructure. I build responsive, high-performance web applications using React, Next.js, and Tailwind CSS — with an eye toward clean design and secure implementation.
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 🧑‍💻 Featured Frontend Projects
 
-[<img align="left" alt="GavinBradford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🚀 **[GetMovies](https://gbradford-getmovies.netlify.app)**  
+  *Next.js, Appwrite, Tailwind CSS*  
+  A movie discovery platform with trending data from TMDB, Appwrite backend integration, and real-time search tracking.
 
+- 🧾 **[Yard Manager Web App](https://github.com/Yellowjersey/InvoiceForm)**  
+  *React, Vite*  
+  A business tool for creating and managing invoices with dynamic forms and a clean UI.
 
+- 🏨 **[Wild Oasis Hotel Login System](https://github.com/Yellowjersey/WildOasis)**  
+  *Full Stack (React, Supabase)*  
+  A secure, full-featured login and dashboard system for hotel staff. Includes role-based auth and state management.
 
-[linkedin]: https://www.linkedin.com/in/gavin-bradford-ab2566123/
+---
 
+### 🔐 Cybersecurity Projects (Bonus Value)
+
+- 🎯 **[Azure SOC Honeynet](https://github.com/Yellowjersey/Azure-SOC)**  
+  A cloud-native security operations lab built in Azure. Simulates attacks and logs responses via Sentinel and custom Python scripts.
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gavin-bradford-ab2566123/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://gbradford-getmovies.netlify.app)  
+[![GitHub](https://img.shields.io/github/followers/yellowjersey?style=social)](https://github.com/yellowjersey)
+
+---
+
+> 💡 Currently building: A Doordash mileage tracker and a web automation framework for bug bounty recon.
