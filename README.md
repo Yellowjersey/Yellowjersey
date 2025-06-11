@@ -34,7 +34,7 @@ I'm a self-taught frontend developer with a background in cybersecurity and clou
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gavin-bradford-ab2566123/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://gbradford-getmovies.netlify.app)  
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Live-green)](https://gbradford-getmovies.netlify.app](https://gavinbradfordportfolio.com/))  
 [![GitHub](https://img.shields.io/github/followers/yellowjersey?style=social)](https://github.com/yellowjersey)
 
 ---
