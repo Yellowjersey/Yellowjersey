@@ -43,7 +43,7 @@ My goal is to continue growing as a **Security Engineer**, building automated, s
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square&logo=vercel)](https://gavinbradfordportfolio.com/)  
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square&logo=vercel)](https://gavinbradfordportfolio.com/)-->  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gavin-bradford-ab2566123/)  
 [![GitHub](https://img.shields.io/github/followers/yellowjersey?style=social)](https://github.com/yellowjersey)
 
