@@ -1,71 +1,47 @@
 <h1 align="center">Hi, I'm Gavin 👋</h1>
-<h3 align="center">Data Engineer | Python Developer | Cloud & Pipeline Builder</h3>
+<h3 align="center">Security Engineer | Python Automation | Cloud Security</h3>
 
 ---
 
-### About Me
-I'm a **Data Engineer** focused on building scalable data pipelines, automated workflows, and cloud-connected systems that transform raw data into actionable insights.
+## 🛡️ About Me
+I’m a **Security Engineer** focused on threat detection, security automation, and securing cloud and enterprise environments.
 
-With a background in cybersecurity engineering, I bring a strong understanding of data integrity, system reliability, and secure architecture into every pipeline I design. I specialize in Python-based ETL development, API integrations, structured data storage, and analytics-ready systems.
+I have hands-on experience working with **SIEM platforms (Microsoft Sentinel), KQL, and Python-based automation** to improve detection accuracy, reduce false positives, and streamline security operations. My background in both offensive and defensive security allows me to identify weaknesses and build solutions that actively reduce risk.
 
-My goal is to work full-time in **Data Engineering**, designing production-grade data platforms, building ingestion pipelines, and optimizing data workflows in cloud environments.
+I specialize in:
+- Security monitoring and alert triage  
+- Detection engineering using KQL  
+- Python-based security automation  
+- Cloud security (Azure & AWS)  
+- Vulnerability management and system hardening  
 
----
-
-### Core Data Engineering Skills
-
-- **Languages:** Python, SQL  
-- **Data Processing:** Pandas, Prophet, ETL design patterns  
-- **APIs & Services:** FastAPI, REST integrations  
-- **Databases:** PostgreSQL, Supabase, SQLite  
-- **Cloud & Deployment:** Azure, Docker, cloud-hosted services  
-- **Automation:** Workflow scripting, log parsing, compliance data transformation  
+My goal is to continue growing as a **Security Engineer**, building automated, scalable defenses and improving visibility across modern environments.
 
 ---
 
-### Featured Data Engineering Projects
+## ⚙️ Core Skills
 
--  **[Pokélyzer — Market Data Pipeline & Forecasting API](https://github.com/Yellowjersey/Pokelyzer)**  
-  *Python, FastAPI, Supabase, Prophet, React*  
-  Designed and implemented a full data ingestion and forecasting pipeline:
-  - Scrapes structured pricing data
-  - Stores historical records in cloud database
-  - Performs time-series forecasting using Prophet
-  - Exposes analytics through a REST API
-  - Serves visualizations via a connected frontend  
-
-  This project demonstrates end-to-end data flow: **Ingestion → Storage → Transformation → Forecasting → API Delivery → Visualization.**
-
--  **Compliance & Scan Data Processing Tools**  
-  Built Python-based ETL workflows that:
-  - Parse OpenVAS and PingCastle scan outputs
-  - Normalize XML and scan data into structured formats
-  - Map technical findings to compliance controls (HIPAA / PCI)
-  - Generate executive-level reports (PDF/HTML)  
-
-  Focused on transforming raw machine output into clean, structured reporting datasets.
-
--  **Cloud Log & Security Data Automation (Azure Lab)**  
-  Developed automation scripts to:
-  - Ingest and process security logs
-  - Simulate events for detection testing
-  - Parse telemetry for structured analysis  
-
-  Emphasis on working with high-volume log data and structured transformation.
+- **SIEM & Detection:** Microsoft Sentinel, Splunk, ELK Stack  
+- **Threat Detection & Response:** IOC analysis, alert triage, log correlation, incident support  
+- **Automation & Scripting:** Python, PowerShell, Bash, KQL  
+- **Cloud Security:** Microsoft Defender for Cloud, Azure Security, AWS Security Hub  
+- **Vulnerability Management:** Nessus, OpenVAS, Qualys  
+- **Security Testing & Validation:** Nmap, OWASP ZAP, Burp Suite  
+- **Systems & Protocols:** Active Directory, LDAP, SMB, Kerberos  
 
 ---
 
-### Current Focus
+## 🚀 What I Focus On
 
-- Designing scalable ETL pipelines in Python
-- Improving SQL optimization & data modeling skills
-- Building production-ready data APIs
-- Expanding into distributed processing and orchestration tools
-- Strengthening cloud-native data architecture skills
+- Building Python tools to automate security workflows  
+- Improving detection logic and reducing alert fatigue  
+- Securing cloud environments and strengthening configurations  
+- Enhancing visibility through logging and SIEM integrations  
+- Bridging gaps between security operations and engineering  
 
 ---
 
-### Connect With Me
+## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat-square&logo=vercel)](https://gavinbradfordportfolio.com/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gavin-bradford-ab2566123/)  
@@ -73,4 +49,4 @@ My goal is to work full-time in **Data Engineering**, designing production-grade
 
 ---
 
-> Currently building: Market data pipelines, structured ETL systems, and analytics-driven Python services.
+> Currently focused on: Security automation, detection engineering, and cloud security.
